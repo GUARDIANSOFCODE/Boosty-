@@ -17,8 +17,9 @@ A clean and minimal Flutter app that displays motivational quotes — built enti
 
 > 🧠 **Idea**
 
-![Boosty Screenshot](![WhatsApp Image 2025-07-17 at 21 19 56_e879a3d2](https://github.com/user-attachments/assets/a83d8cae-9d5f-4f09-8209-f24b3db1b414)
-)
+## !Boosty Screenshot
+![2](https://github.com/user-attachments/assets/a83d8cae-9d5f-4f09-8209-f24b3db1b414)
+
 
 ---
 
