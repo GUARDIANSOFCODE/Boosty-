@@ -23,6 +23,9 @@ A clean and minimal Flutter app that displays motivational quotes — built enti
 ![](https://github.com/user-attachments/assets/46c26cb9-5ab3-4ba9-8295-d5722c737e81)
 
 
+![](https://github.com/user-attachments/assets/32a44de5-07ac-4c3d-a5a7-047fa0cefdb4)
+
+
 ---
 
 ## 🛠️ Getting Started
